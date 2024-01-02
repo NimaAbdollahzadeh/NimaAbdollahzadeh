@@ -1,6 +1,6 @@
 ![Nima's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NimaAbdollahzadeh&theme=github-compact)
-## Welcome to my Github 
-Hi, I'm Nima, happy to see you here👋
+## Welcome to my Github.
+### Hi, I'm Nima, happy to see you here👋
 
 ## About Me 
 
@@ -17,4 +17,6 @@ Hi, I'm Nima, happy to see you here👋
 
 ### Favourite singers
 ![Thomas Anders](https://github.com/NimaAbdollahzadeh/images/blob/origin/images.jpg?raw=true)
+![Enrique Iglesias](https://github.com/NimaAbdollahzadeh/images/blob/origin/enrique-iglesias-gettyimages-1019115058.jpg?raw=true)
 
+## Adding singers is just for fun 😊
