@@ -16,6 +16,6 @@
 
 
 ### Favourite singers
-[![Thomas Anders]](https://en.wikipedia.org/wiki/Thomas_Anders)
+[Thomas Anders](https://en.wikipedia.org/wiki/Thomas_Anders)
 
 
