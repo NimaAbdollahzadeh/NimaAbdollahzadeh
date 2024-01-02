@@ -1,6 +1,6 @@
 ![Nima's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NimaAbdollahzadeh&theme=github-compact)
-## Hi, I'm Nima, happy to see you here👋
-## Welcome to my GitHub
+## Welcome to my Github 
+Hi, I'm Nima, happy to see you here👋
 
 ## About Me 
 
@@ -16,6 +16,5 @@
 
 
 ### Favourite singers
-[Thomas Anders](https://en.wikipedia.org/wiki/Thomas_Anders)
-
+![Thomas Anders](https://github.com/NimaAbdollahzadeh/images/blob/origin/images.jpg?raw=true)
 
