@@ -15,8 +15,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nima-abdollahzadeh/)
 
 
-### Favourite singers
-![Thomas Anders](https://github.com/NimaAbdollahzadeh/images/blob/origin/images.jpg?raw=true)
-![Enrique Iglesias](https://github.com/NimaAbdollahzadeh/images/blob/origin/enrique-iglesias-gettyimages-1019115058.jpg?raw=true)
-
-## Adding singers is just for fun 😊
