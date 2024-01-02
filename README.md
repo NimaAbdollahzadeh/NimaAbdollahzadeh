@@ -16,7 +16,6 @@
 
 
 ### Favourite singers
+[![Thomas Anders]](https://en.wikipedia.org/wiki/Thomas_Anders)
 
-[![Thomas Anders]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin](https://images.app.goo.gl/9hLVHryBrgAxjf7H8)]((https://en.wikipedia.org/wiki/Thomas_Anders))
-[![Enrique](https://www.google.com/search?q=enrique+iglesias&oq=enrique&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyDQgCEC4Y1AIYsQMYgAQyDQgDEC4YrwEYxwEYgAQyBwgEEC4YgAQyCggFEC4YsQMYgAQyCggGEAAYsQMYgAQyBwgHEC4YgAQyBwgIEC4YgAQyBwgJEAAYjwLSAQgxNTU5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8)
 
