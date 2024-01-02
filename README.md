@@ -17,6 +17,6 @@
 
 ### Favourite singers
 
-[![Thomas Anders](https://www.google.com/search?q=thomas+anders&oq=thomas+&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MggIAhBFGCcYOzIGCAMQRRg7Mg0IBBAuGIMBGLEDGIAEMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg90gEHOTUxajBqOagCALACAA&sourceid=chrome&ie=UTF-8)
+[![Thomas Anders](https://images.app.goo.gl/9hLVHryBrgAxjf7H8)](https://www.google.com/search?q=thomas+anders&oq=thomas+&gs_lcrp=EgZjaHJvbWUqDggAEEUYJxg7GIAEGIoFMg4IABBFGCcYOxiABBiKBTIGCAEQRRg5MggIAhBFGCcYOzIGCAMQRRg7Mg0IBBAuGIMBGLEDGIAEMgYIBRBFGD0yBggGEEUYPDIGCAcQRRg90gEHOTUxajBqOagCALACAA&sourceid=chrome&ie=UTF-8)
 [![Enrique](https://www.google.com/search?q=enrique+iglesias&oq=enrique&gs_lcrp=EgZjaHJvbWUqDQgAEAAY4wIYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyDQgCEC4Y1AIYsQMYgAQyDQgDEC4YrwEYxwEYgAQyBwgEEC4YgAQyCggFEC4YsQMYgAQyCggGEAAYsQMYgAQyBwgHEC4YgAQyBwgIEC4YgAQyBwgJEAAYjwLSAQgxNTU5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8)
 
